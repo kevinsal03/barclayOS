@@ -1,8 +1,0 @@
-Origin: BarclayOS CPKG Repo
-Label: BarclayOS CPKG Repo
-Suite: stable
-Version: 1.0
-Codename: stretch
-Architectures: all
-Components: main
-Description: My Repo
