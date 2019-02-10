@@ -1,8 +1,8 @@
 # config/common - common options for live-build(7)
 
 # $LB_APT: set package manager
-# (Default: apt)
-LB_APT="apt"
+# (Default: aptitude)
+LB_APT="aptitude"
 
 # $LB_APT_FTP_PROXY: set apt/aptitude ftp proxy
 # (Default: autodetected or empty)
@@ -115,5 +115,5 @@ APT_OPTIONS="--yes"
 APTITUDE_OPTIONS="--assume-yes"
 DEBOOTSTRAP_OPTIONS=""
 DEBOOTSTRAP_SCRIPT=""
-GZIP_OPTIONS="-6 --rsyncable"
+GZIP_OPTIONS="-6  --rsyncable"
 ISOHYBRID_OPTIONS=""
