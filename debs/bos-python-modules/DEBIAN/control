@@ -1,5 +1,0 @@
-Package: bos-python-modules
-Version: 1.0
-Maintainer: Kevin Salvatorelli
-Architecture: all
-Description: Python modules required for some BOS functions
